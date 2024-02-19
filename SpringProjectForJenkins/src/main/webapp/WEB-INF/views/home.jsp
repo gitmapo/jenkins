@@ -11,5 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <div>Hi Jenkins Deployment</div>
+<div>연습용 WOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div>
 </body>
 </html>
