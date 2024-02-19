@@ -11,6 +11,7 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <div>Hi Jenkins Deployment</div>
-<div>연습용 WOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div>
+<div>WOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div>
+<div>Git Hooks를 동작시키는 merge </div>
 </body>
 </html>
